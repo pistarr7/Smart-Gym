@@ -1,0 +1,8 @@
+{
+  "name": "Smart-Gym AI",
+  "description": "A mobile-first AI fitness assistant providing real-time posture correction, personalized workout plans, and analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
